@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vivak Patel</h1>
 <h3 align="center">A passionate frontend and Backend developer</h3>
 
-<p align="left"> <img src=" <img src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?w=2000" alt="Girl in a jacket" width="500" height="600"> " alt="vivak-patel" /> </p>
+<p align="left"> <img src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?w=2000" alt="Girl in a jacket" width="500" height="600"> " alt="vivak-patel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivak-patel" alt="vivak-patel" /></a> </p>
 
