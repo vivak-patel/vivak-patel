@@ -1,3 +1,4 @@
+ <img src="https://proptimisetechnology.com/wp-content/uploads/2021/03/banner-industry-tech.jpg" alt="Image Background"> 
 <h1 align="center">Hi 👋, I'm Vivak Patel</h1>
 <h3 align="center">A passionate frontend and Backend developer</h3>
 
